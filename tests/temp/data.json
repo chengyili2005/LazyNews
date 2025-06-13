@@ -1,0 +1,1347 @@
+[
+    {
+        "word": "It",
+        "start": 0.0,
+        "end": 0.22
+    },
+    {
+        "word": "was",
+        "start": 0.22,
+        "end": 0.36
+    },
+    {
+        "word": "only",
+        "start": 0.36,
+        "end": 0.66
+    },
+    {
+        "word": "when",
+        "start": 0.66,
+        "end": 0.92
+    },
+    {
+        "word": "the",
+        "start": 0.92,
+        "end": 1.08
+    },
+    {
+        "word": "administration",
+        "start": 1.08,
+        "end": 1.66
+    },
+    {
+        "word": "felt",
+        "start": 1.66,
+        "end": 2.28
+    },
+    {
+        "word": "Newsom",
+        "start": 2.28,
+        "end": 2.8
+    },
+    {
+        "word": "was",
+        "start": 2.8,
+        "end": 3.02
+    },
+    {
+        "word": "not",
+        "start": 3.02,
+        "end": 3.26
+    },
+    {
+        "word": "restoring",
+        "start": 3.26,
+        "end": 3.78
+    },
+    {
+        "word": "order",
+        "start": 3.78,
+        "end": 4.16
+    },
+    {
+        "word": "in",
+        "start": 4.16,
+        "end": 4.4
+    },
+    {
+        "word": "the",
+        "start": 4.4,
+        "end": 4.52
+    },
+    {
+        "word": "city.",
+        "start": 4.52,
+        "end": 4.82
+    },
+    {
+        "word": "And",
+        "start": 5.58,
+        "end": 5.94
+    },
+    {
+        "word": "after",
+        "start": 5.94,
+        "end": 6.3
+    },
+    {
+        "word": "Trump",
+        "start": 6.3,
+        "end": 6.66
+    },
+    {
+        "word": "watched",
+        "start": 6.66,
+        "end": 7.06
+    },
+    {
+        "word": "the",
+        "start": 7.06,
+        "end": 7.26
+    },
+    {
+        "word": "situation",
+        "start": 7.26,
+        "end": 7.88
+    },
+    {
+        "word": "escalate",
+        "start": 7.88,
+        "end": 8.62
+    },
+    {
+        "word": "for",
+        "start": 8.62,
+        "end": 8.82
+    },
+    {
+        "word": "24",
+        "start": 8.82,
+        "end": 9.36
+    },
+    {
+        "word": "hours",
+        "start": 9.36,
+        "end": 9.74
+    },
+    {
+        "word": "and",
+        "start": 9.74,
+        "end": 10.06
+    },
+    {
+        "word": "White",
+        "start": 10.06,
+        "end": 10.28
+    },
+    {
+        "word": "House",
+        "start": 10.28,
+        "end": 10.62
+    },
+    {
+        "word": "officials",
+        "start": 10.62,
+        "end": 11.06
+    },
+    {
+        "word": "saw",
+        "start": 11.06,
+        "end": 11.48
+    },
+    {
+        "word": "imagery",
+        "start": 11.48,
+        "end": 11.94
+    },
+    {
+        "word": "of",
+        "start": 12.7,
+        "end": 13.06
+    },
+    {
+        "word": "federal",
+        "start": 13.06,
+        "end": 13.46
+    },
+    {
+        "word": "law",
+        "start": 13.46,
+        "end": 13.84
+    },
+    {
+        "word": "enforcement",
+        "start": 13.84,
+        "end": 14.32
+    },
+    {
+        "word": "officers",
+        "start": 14.32,
+        "end": 15.02
+    },
+    {
+        "word": "with",
+        "start": 15.02,
+        "end": 15.38
+    },
+    {
+        "word": "lacerations",
+        "start": 15.38,
+        "end": 16.26
+    },
+    {
+        "word": "and",
+        "start": 16.26,
+        "end": 16.54
+    },
+    {
+        "word": "other",
+        "start": 16.54,
+        "end": 16.76
+    },
+    {
+        "word": "injuries,",
+        "start": 16.76,
+        "end": 17.3
+    },
+    {
+        "word": "that",
+        "start": 17.96,
+        "end": 18.16
+    },
+    {
+        "word": "the",
+        "start": 18.16,
+        "end": 18.34
+    },
+    {
+        "word": "president",
+        "start": 18.34,
+        "end": 18.76
+    },
+    {
+        "word": "moved",
+        "start": 18.76,
+        "end": 19.12
+    },
+    {
+        "word": "to",
+        "start": 19.12,
+        "end": 19.36
+    },
+    {
+        "word": "deploy",
+        "start": 19.36,
+        "end": 19.72
+    },
+    {
+        "word": "the",
+        "start": 19.72,
+        "end": 19.94
+    },
+    {
+        "word": "guard.",
+        "start": 19.94,
+        "end": 20.26
+    },
+    {
+        "word": "According",
+        "start": 20.78,
+        "end": 21.22
+    },
+    {
+        "word": "to",
+        "start": 21.22,
+        "end": 21.52
+    },
+    {
+        "word": "the",
+        "start": 21.52,
+        "end": 21.66
+    },
+    {
+        "word": "official,",
+        "start": 21.66,
+        "end": 22.16
+    },
+    {
+        "word": "who",
+        "start": 22.62,
+        "end": 22.78
+    },
+    {
+        "word": "was",
+        "start": 22.78,
+        "end": 23.0
+    },
+    {
+        "word": "granted",
+        "start": 23.0,
+        "end": 23.36
+    },
+    {
+        "word": "anonymity",
+        "start": 23.36,
+        "end": 24.16
+    },
+    {
+        "word": "to",
+        "start": 24.16,
+        "end": 24.42
+    },
+    {
+        "word": "discuss",
+        "start": 24.42,
+        "end": 24.88
+    },
+    {
+        "word": "private",
+        "start": 24.88,
+        "end": 25.32
+    },
+    {
+        "word": "deliberations.",
+        "start": 25.32,
+        "end": 26.3
+    },
+    {
+        "word": "The",
+        "start": 26.78,
+        "end": 27.14
+    },
+    {
+        "word": "president",
+        "start": 27.14,
+        "end": 27.6
+    },
+    {
+        "word": "has",
+        "start": 27.6,
+        "end": 27.94
+    },
+    {
+        "word": "put",
+        "start": 27.94,
+        "end": 28.16
+    },
+    {
+        "word": "hundreds",
+        "start": 28.16,
+        "end": 28.56
+    },
+    {
+        "word": "of",
+        "start": 28.56,
+        "end": 28.8
+    },
+    {
+        "word": "national",
+        "start": 28.8,
+        "end": 29.16
+    },
+    {
+        "word": "guard",
+        "start": 29.16,
+        "end": 29.62
+    },
+    {
+        "word": "troops",
+        "start": 29.62,
+        "end": 29.94
+    },
+    {
+        "word": "on",
+        "start": 29.94,
+        "end": 30.26
+    },
+    {
+        "word": "the",
+        "start": 30.26,
+        "end": 30.4
+    },
+    {
+        "word": "streets",
+        "start": 30.4,
+        "end": 30.8
+    },
+    {
+        "word": "to",
+        "start": 30.8,
+        "end": 31.04
+    },
+    {
+        "word": "quell",
+        "start": 31.04,
+        "end": 31.36
+    },
+    {
+        "word": "protests",
+        "start": 31.36,
+        "end": 31.9
+    },
+    {
+        "word": "over",
+        "start": 31.9,
+        "end": 32.22
+    },
+    {
+        "word": "his.",
+        "start": 32.22,
+        "end": 32.62
+    },
+    {
+        "word": "Administration's",
+        "start": 34.12,
+        "end": 34.64
+    },
+    {
+        "word": "immigration",
+        "start": 34.64,
+        "end": 34.98
+    },
+    {
+        "word": "raids.",
+        "start": 34.98,
+        "end": 35.7
+    },
+    {
+        "word": "A",
+        "start": 36.22,
+        "end": 36.32
+    },
+    {
+        "word": "deployment",
+        "start": 36.32,
+        "end": 36.8
+    },
+    {
+        "word": "that",
+        "start": 36.8,
+        "end": 37.18
+    },
+    {
+        "word": "state",
+        "start": 37.18,
+        "end": 37.5
+    },
+    {
+        "word": "and",
+        "start": 37.5,
+        "end": 37.7
+    },
+    {
+        "word": "city",
+        "start": 37.7,
+        "end": 37.94
+    },
+    {
+        "word": "officials",
+        "start": 37.94,
+        "end": 38.56
+    },
+    {
+        "word": "say",
+        "start": 38.56,
+        "end": 38.92
+    },
+    {
+        "word": "has",
+        "start": 38.92,
+        "end": 39.18
+    },
+    {
+        "word": "only",
+        "start": 39.18,
+        "end": 39.56
+    },
+    {
+        "word": "inflamed",
+        "start": 39.56,
+        "end": 40.06
+    },
+    {
+        "word": "tensions.",
+        "start": 40.06,
+        "end": 40.56
+    },
+    {
+        "word": "I",
+        "start": 41.66,
+        "end": 41.86
+    },
+    {
+        "word": "understand",
+        "start": 41.86,
+        "end": 42.42
+    },
+    {
+        "word": "the",
+        "start": 42.42,
+        "end": 42.72
+    },
+    {
+        "word": "importance",
+        "start": 42.72,
+        "end": 43.18
+    },
+    {
+        "word": "of",
+        "start": 43.18,
+        "end": 43.5
+    },
+    {
+        "word": "deporting",
+        "start": 43.5,
+        "end": 44.08
+    },
+    {
+        "word": "criminal",
+        "start": 44.08,
+        "end": 44.4
+    },
+    {
+        "word": "aliens.",
+        "start": 44.4,
+        "end": 45.06
+    },
+    {
+        "word": "But",
+        "start": 45.74,
+        "end": 45.96
+    },
+    {
+        "word": "what",
+        "start": 45.96,
+        "end": 46.12
+    },
+    {
+        "word": "we",
+        "start": 46.12,
+        "end": 46.3
+    },
+    {
+        "word": "are",
+        "start": 46.3,
+        "end": 46.44
+    },
+    {
+        "word": "witnessing",
+        "start": 46.44,
+        "end": 46.88
+    },
+    {
+        "word": "are",
+        "start": 46.88,
+        "end": 47.22
+    },
+    {
+        "word": "arbitrary",
+        "start": 47.22,
+        "end": 47.68
+    },
+    {
+        "word": "measures",
+        "start": 47.68,
+        "end": 48.26
+    },
+    {
+        "word": "to",
+        "start": 48.26,
+        "end": 48.6
+    },
+    {
+        "word": "hunt",
+        "start": 48.6,
+        "end": 48.84
+    },
+    {
+        "word": "down",
+        "start": 48.84,
+        "end": 49.06
+    },
+    {
+        "word": "people",
+        "start": 49.06,
+        "end": 49.44
+    },
+    {
+        "word": "who",
+        "start": 49.44,
+        "end": 49.68
+    },
+    {
+        "word": "are",
+        "start": 49.68,
+        "end": 49.8
+    },
+    {
+        "word": "complying",
+        "start": 49.8,
+        "end": 50.38
+    },
+    {
+        "word": "with",
+        "start": 50.38,
+        "end": 50.62
+    },
+    {
+        "word": "their",
+        "start": 50.62,
+        "end": 50.92
+    },
+    {
+        "word": "immigration",
+        "start": 51.74,
+        "end": 52.24
+    },
+    {
+        "word": "hearings.",
+        "start": 52.24,
+        "end": 52.98
+    },
+    {
+        "word": "In",
+        "start": 53.400000000000006,
+        "end": 53.78
+    },
+    {
+        "word": "many",
+        "start": 53.78,
+        "end": 54.08
+    },
+    {
+        "word": "cases,",
+        "start": 54.08,
+        "end": 54.6
+    },
+    {
+        "word": "with",
+        "start": 55.16,
+        "end": 55.36
+    },
+    {
+        "word": "credible",
+        "start": 55.36,
+        "end": 55.88
+    },
+    {
+        "word": "fear",
+        "start": 55.88,
+        "end": 56.28
+    },
+    {
+        "word": "of",
+        "start": 56.28,
+        "end": 56.42
+    },
+    {
+        "word": "persecution",
+        "start": 56.42,
+        "end": 57.02
+    },
+    {
+        "word": "claims,",
+        "start": 57.02,
+        "end": 57.72
+    },
+    {
+        "word": "all",
+        "start": 58.44,
+        "end": 58.66
+    },
+    {
+        "word": "driven",
+        "start": 58.66,
+        "end": 58.98
+    },
+    {
+        "word": "by",
+        "start": 58.98,
+        "end": 59.28
+    },
+    {
+        "word": "a",
+        "start": 59.28,
+        "end": 59.46
+    },
+    {
+        "word": "Miller",
+        "start": 59.46,
+        "end": 59.66
+    },
+    {
+        "word": "-like",
+        "start": 59.66,
+        "end": 59.98
+    },
+    {
+        "word": "desire",
+        "start": 59.98,
+        "end": 60.5
+    },
+    {
+        "word": "to",
+        "start": 60.5,
+        "end": 60.8
+    },
+    {
+        "word": "satisfy",
+        "start": 60.8,
+        "end": 61.34
+    },
+    {
+        "word": "a",
+        "start": 61.34,
+        "end": 61.68
+    },
+    {
+        "word": "self",
+        "start": 61.68,
+        "end": 61.94
+    },
+    {
+        "word": "-fabricated",
+        "start": 61.94,
+        "end": 62.72
+    },
+    {
+        "word": "deportation",
+        "start": 62.72,
+        "end": 63.58
+    },
+    {
+        "word": "goal,",
+        "start": 63.58,
+        "end": 63.9
+    },
+    {
+        "word": "said",
+        "start": 64.18,
+        "end": 64.36
+    },
+    {
+        "word": "Garcia.",
+        "start": 64.36,
+        "end": 64.88
+    },
+    {
+        "word": "Referring",
+        "start": 65.78,
+        "end": 66.34
+    },
+    {
+        "word": "to",
+        "start": 66.34,
+        "end": 66.52
+    },
+    {
+        "word": "Stephen",
+        "start": 66.52,
+        "end": 66.9
+    },
+    {
+        "word": "Miller,",
+        "start": 66.9,
+        "end": 67.3
+    },
+    {
+        "word": "a",
+        "start": 67.82,
+        "end": 67.96
+    },
+    {
+        "word": "White",
+        "start": 67.96,
+        "end": 68.2
+    },
+    {
+        "word": "House",
+        "start": 68.2,
+        "end": 68.56
+    },
+    {
+        "word": "deputy",
+        "start": 68.56,
+        "end": 68.9
+    },
+    {
+        "word": "chief",
+        "start": 68.9,
+        "end": 69.38
+    },
+    {
+        "word": "of",
+        "start": 69.38,
+        "end": 69.62
+    },
+    {
+        "word": "staff",
+        "start": 69.62,
+        "end": 70.0
+    },
+    {
+        "word": "and",
+        "start": 70.0,
+        "end": 70.36
+    },
+    {
+        "word": "key",
+        "start": 70.36,
+        "end": 70.6
+    },
+    {
+        "word": "architect",
+        "start": 70.6,
+        "end": 71.08
+    },
+    {
+        "word": "of",
+        "start": 71.08,
+        "end": 71.42
+    },
+    {
+        "word": "Trump's",
+        "start": 71.42,
+        "end": 71.88
+    },
+    {
+        "word": "immigration",
+        "start": 71.88,
+        "end": 72.42
+    },
+    {
+        "word": "crackdown.",
+        "start": 72.42,
+        "end": 73.14
+    },
+    {
+        "word": "Trump's",
+        "start": 74.0,
+        "end": 74.52
+    },
+    {
+        "word": "speedy",
+        "start": 74.52,
+        "end": 74.94
+    },
+    {
+        "word": "deployment",
+        "start": 74.94,
+        "end": 75.42
+    },
+    {
+        "word": "in",
+        "start": 75.42,
+        "end": 75.76
+    },
+    {
+        "word": "California",
+        "start": 75.76,
+        "end": 76.32
+    },
+    {
+        "word": "of",
+        "start": 76.32,
+        "end": 76.66
+    },
+    {
+        "word": "troops",
+        "start": 76.66,
+        "end": 76.98
+    },
+    {
+        "word": "against",
+        "start": 76.98,
+        "end": 77.38
+    },
+    {
+        "word": "those",
+        "start": 77.38,
+        "end": 77.74
+    },
+    {
+        "word": "whom",
+        "start": 77.74,
+        "end": 78.02
+    },
+    {
+        "word": "the",
+        "start": 78.02,
+        "end": 78.16
+    },
+    {
+        "word": "president",
+        "start": 78.16,
+        "end": 78.56
+    },
+    {
+        "word": "has",
+        "start": 78.56,
+        "end": 78.88
+    },
+    {
+        "word": "alluded",
+        "start": 78.88,
+        "end": 79.24
+    },
+    {
+        "word": "to.",
+        "start": 79.24,
+        "end": 79.66
+    },
+    {
+        "word": "As",
+        "start": 80.34,
+        "end": 80.66
+    },
+    {
+        "word": "insurrectionists",
+        "start": 80.66,
+        "end": 81.88
+    },
+    {
+        "word": "on",
+        "start": 81.88,
+        "end": 82.16
+    },
+    {
+        "word": "social",
+        "start": 82.16,
+        "end": 82.54
+    },
+    {
+        "word": "media",
+        "start": 82.54,
+        "end": 83.12
+    },
+    {
+        "word": "as",
+        "start": 83.12,
+        "end": 83.34
+    },
+    {
+        "word": "a",
+        "start": 83.34,
+        "end": 83.46
+    },
+    {
+        "word": "sharp",
+        "start": 83.46,
+        "end": 83.8
+    },
+    {
+        "word": "contrast",
+        "start": 83.8,
+        "end": 84.34
+    },
+    {
+        "word": "to",
+        "start": 84.34,
+        "end": 84.74
+    },
+    {
+        "word": "his",
+        "start": 84.74,
+        "end": 84.88
+    },
+    {
+        "word": "decision",
+        "start": 84.88,
+        "end": 85.4
+    },
+    {
+        "word": "to",
+        "start": 85.4,
+        "end": 85.6
+    },
+    {
+        "word": "issue",
+        "start": 85.6,
+        "end": 85.92
+    },
+    {
+        "word": "no",
+        "start": 85.92,
+        "end": 86.22
+    },
+    {
+        "word": "order",
+        "start": 86.22,
+        "end": 86.58
+    },
+    {
+        "word": "or",
+        "start": 86.58,
+        "end": 86.86
+    },
+    {
+        "word": "formal",
+        "start": 87.74,
+        "end": 88.14
+    },
+    {
+        "word": "request",
+        "start": 88.14,
+        "end": 88.68
+    },
+    {
+        "word": "for",
+        "start": 88.68,
+        "end": 88.98
+    },
+    {
+        "word": "national",
+        "start": 88.98,
+        "end": 89.4
+    },
+    {
+        "word": "guard",
+        "start": 89.4,
+        "end": 89.78
+    },
+    {
+        "word": "troops",
+        "start": 89.78,
+        "end": 90.22
+    },
+    {
+        "word": "during",
+        "start": 90.22,
+        "end": 90.56
+    },
+    {
+        "word": "the",
+        "start": 90.56,
+        "end": 90.76
+    },
+    {
+        "word": "insurrection",
+        "start": 90.76,
+        "end": 91.36
+    },
+    {
+        "word": "at",
+        "start": 91.36,
+        "end": 91.72
+    },
+    {
+        "word": "the",
+        "start": 91.72,
+        "end": 91.82
+    },
+    {
+        "word": "U",
+        "start": 91.82,
+        "end": 92.08
+    },
+    {
+        "word": ".S.",
+        "start": 92.08,
+        "end": 92.24
+    },
+    {
+        "word": "Capitol",
+        "start": 92.26,
+        "end": 92.72
+    },
+    {
+        "word": "on",
+        "start": 92.72,
+        "end": 93.0
+    },
+    {
+        "word": "Jan.",
+        "start": 93.0,
+        "end": 93.32
+    },
+    {
+        "word": "6,",
+        "start": 94.72,
+        "end": 95.36
+    },
+    {
+        "word": "2021,",
+        "start": 95.36,
+        "end": 96.0
+    },
+    {
+        "word": "despite",
+        "start": 96.8,
+        "end": 97.12
+    },
+    {
+        "word": "his",
+        "start": 97.12,
+        "end": 97.44
+    },
+    {
+        "word": "repeated",
+        "start": 97.44,
+        "end": 97.98
+    },
+    {
+        "word": "and",
+        "start": 97.98,
+        "end": 98.26
+    },
+    {
+        "word": "false",
+        "start": 98.26,
+        "end": 98.66
+    },
+    {
+        "word": "assertions",
+        "start": 98.66,
+        "end": 99.38
+    },
+    {
+        "word": "that",
+        "start": 99.38,
+        "end": 99.64
+    },
+    {
+        "word": "he",
+        "start": 99.64,
+        "end": 99.76
+    },
+    {
+        "word": "had",
+        "start": 99.76,
+        "end": 99.92
+    },
+    {
+        "word": "made",
+        "start": 99.92,
+        "end": 100.18
+    },
+    {
+        "word": "such",
+        "start": 100.18,
+        "end": 100.42
+    },
+    {
+        "word": "an",
+        "start": 100.42,
+        "end": 100.62
+    },
+    {
+        "word": "offer.",
+        "start": 100.62,
+        "end": 100.92
+    },
+    {
+        "word": "The",
+        "start": 101.94,
+        "end": 102.08
+    },
+    {
+        "word": "president",
+        "start": 102.08,
+        "end": 102.54
+    },
+    {
+        "word": "and",
+        "start": 102.54,
+        "end": 102.8
+    },
+    {
+        "word": "his",
+        "start": 102.8,
+        "end": 103.0
+    },
+    {
+        "word": "top",
+        "start": 103.0,
+        "end": 103.26
+    },
+    {
+        "word": "immigration",
+        "start": 103.26,
+        "end": 103.82
+    },
+    {
+        "word": "aides",
+        "start": 103.82,
+        "end": 104.36
+    },
+    {
+        "word": "accused",
+        "start": 104.36,
+        "end": 104.68
+    },
+    {
+        "word": "the",
+        "start": 104.68,
+        "end": 104.94
+    },
+    {
+        "word": "governor",
+        "start": 104.94,
+        "end": 105.24
+    },
+    {
+        "word": "of",
+        "start": 105.24,
+        "end": 105.54
+    },
+    {
+        "word": "mismanaging",
+        "start": 105.54,
+        "end": 106.24
+    },
+    {
+        "word": "the",
+        "start": 106.24,
+        "end": 106.48
+    },
+    {
+        "word": "protests.",
+        "start": 106.48,
+        "end": 107.18
+    },
+    {
+        "word": "With",
+        "start": 107.94,
+        "end": 108.3
+    },
+    {
+        "word": "borders",
+        "start": 108.3,
+        "end": 108.78
+    },
+    {
+        "word": "are",
+        "start": 108.78,
+        "end": 109.1
+    },
+    {
+        "word": "Tom",
+        "start": 109.1,
+        "end": 109.48
+    },
+    {
+        "word": "Homan",
+        "start": 109.48,
+        "end": 109.9
+    },
+    {
+        "word": "asserting",
+        "start": 109.9,
+        "end": 110.4
+    },
+    {
+        "word": "in",
+        "start": 110.4,
+        "end": 110.64
+    },
+    {
+        "word": "a",
+        "start": 110.64,
+        "end": 110.76
+    },
+    {
+        "word": "Fox",
+        "start": 110.76,
+        "end": 111.0
+    },
+    {
+        "word": "News",
+        "start": 111.0,
+        "end": 111.36
+    },
+    {
+        "word": "interview",
+        "start": 111.36,
+        "end": 111.9
+    },
+    {
+        "word": "Monday",
+        "start": 111.9,
+        "end": 112.34
+    },
+    {
+        "word": "that",
+        "start": 112.34,
+        "end": 112.68
+    },
+    {
+        "word": "Newsom",
+        "start": 112.68,
+        "end": 113.12
+    },
+    {
+        "word": "stoked",
+        "start": 113.12,
+        "end": 113.5
+    },
+    {
+        "word": "Andy",
+        "start": 113.5,
+        "end": 113.84
+    },
+    {
+        "word": "Ice.",
+        "start": 113.84,
+        "end": 114.26
+    },
+    {
+        "word": "Sentiments",
+        "start": 115.14,
+        "end": 115.82
+    },
+    {
+        "word": "and",
+        "start": 115.82,
+        "end": 116.06
+    },
+    {
+        "word": "waited",
+        "start": 116.06,
+        "end": 116.34
+    },
+    {
+        "word": "two",
+        "start": 116.34,
+        "end": 116.7
+    },
+    {
+        "word": "days",
+        "start": 116.7,
+        "end": 117.04
+    },
+    {
+        "word": "to",
+        "start": 117.04,
+        "end": 117.28
+    },
+    {
+        "word": "declare",
+        "start": 117.28,
+        "end": 117.64
+    },
+    {
+        "word": "unlawful",
+        "start": 117.64,
+        "end": 118.32
+    },
+    {
+        "word": "assembly",
+        "start": 118.32,
+        "end": 118.86
+    },
+    {
+        "word": "in",
+        "start": 118.86,
+        "end": 119.1
+    },
+    {
+        "word": "the",
+        "start": 119.1,
+        "end": 119.22
+    },
+    {
+        "word": "city.",
+        "start": 119.22,
+        "end": 119.52
+    }
+]
